@@ -5,7 +5,7 @@ tags : ["GitHub Pages"]
 ---
 {% include JB/setup %}
 
-##GitHub Pagesの開設のしかた Jekyll-Bootstrap編（2012年9月版）
+##GitHub Pagesの開設のしかた Jekyll-Bootstrap編（2012年9月版、なるべく「GitHub for Mac」を使う）
 
 Jekyll-BootstrapはJekyllサイトを簡単にブログ化してくれるパッケージです。Jekyllだけで一から作るより手軽そうなのが特徴。
 
