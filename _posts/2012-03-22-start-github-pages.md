@@ -1,3 +1,10 @@
+---
+layout: post
+category : Github
+tags : ["GitHub Pages"]
+---
+{% include JB/setup %}
+
 ##GitHub Pagesの開設のしかた（2012年9月版）
 
 1. `username.github.com`という名前のリポジトリをつくる
