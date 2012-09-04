@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Github
-tags : ["GitHub Pages"]
+tags : ["Sinatra"]
 ---
 {% include JB/setup %}
 
