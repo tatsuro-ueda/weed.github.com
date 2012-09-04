@@ -5,6 +5,8 @@ tags : ["GitHub Pages"]
 ---
 {% include JB/setup %}
 
+##start GitHub Pages at September 2012
+
 ##GitHub Pagesの開設のしかた（2012年9月版）
 
 ###English
