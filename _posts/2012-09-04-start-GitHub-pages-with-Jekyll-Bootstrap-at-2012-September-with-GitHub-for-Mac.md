@@ -22,15 +22,15 @@ Jekyll-BootstrapはJekyllサイトを簡単にブログ化してくれるパッ�
 			url = git@github.com:USERNAME/USERNAME.github.com.git
 
 	So now you can push the contents of `USERNAME.github.com` folder.
-4. Publish with _GitHub for Mac_.
+4. Publish by _GitHub for Mac_.
 3. After minutes, the site is published. You can confirm the site by opening `http://USERNAME.github.com` with browser.
 4. Next, edit `_config.yml` and change name, email address, Twitter account and others.
-5. Commit & Sync with _GitHub for Mac_.
+5. Commit & Sync by _GitHub for Mac_.
 6. Let's try to write an post.
 
 		$ vim _post/2012-03-22-installed-jekyll-bootstrap.md
 
-5. Commit & Sync with _GitHub for Mac_.
+5. Commit & Sync by _GitHub for Mac_.
 
 ###日本語
 
