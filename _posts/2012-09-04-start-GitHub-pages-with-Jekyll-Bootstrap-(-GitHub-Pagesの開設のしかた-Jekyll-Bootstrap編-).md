@@ -29,7 +29,7 @@ Jekyll-BootstrapはJekyllサイトを簡単にブログ化してくれるパッ�
 3. After minutes, the site is published. You can confirm the site by opening `http://USERNAME.github.com` with browser.
 4. Next, edit `_config.yml` and change name, email address, Twitter account and others.
 5. Commit & Sync by _GitHub for Mac_.
-6. Let's try to write an post.
+6. Let's try to write an post. Multibyte characters is available but don't insert space.
 
 		$ vim _post/2012-03-22-installed-jekyll-bootstrap.md
 
@@ -50,7 +50,7 @@ Jekyll-BootstrapはJekyllサイトを簡単にブログ化してくれるパッ�
 3. しばらく待つとサイトができるので、`http://USERNAME.github.com`をブラウザで開いて確認する
 4. 次に`_config.yml`を編集して名前やらメールアドレスやらTwitterアカウントを編集する
 5. _GitHub for Mac_でCommit & Syncする
-6. 記事を書いてみる
+6. 記事を書いてみる。記事名にはマルチバイト文字も使えるが、スペースを混ぜるのはダメ。
 
 		$ vim _post/2012-03-22-installed-jekyll-bootstrap.md
 
