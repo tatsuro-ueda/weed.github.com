@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weed.GitHub.com
+title: Weed.github.com
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
