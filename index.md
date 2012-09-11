@@ -9,9 +9,13 @@ tagline: Supporting tagline
 
 This blog mainly introduce cocoaPods which is library of Objective-C.
 
+このブログでは主にcocoaPodsというObjective-Cのライブラリを紹介します。
+
 ## Aoubt Me
 
 A free programmer mainly developed iOS application with Network Web service.
+
+主にネットワークのWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
 
 ## Artivles
 
