@@ -26,7 +26,7 @@ A free programmer mainly developed iOS application with Network Web service.
 - <mailto:weed_7777@yahoo.co.jp>
 - [weed](http://stackoverflow.com/users/1530020/weed) @ ![](http://farm9.staticflickr.com/8438/7976623292_85f2420bbd_t.jpg)
 
-## Artivles
+## Articles
 
 <ul class="posts">
   {% for post in site.posts %}
