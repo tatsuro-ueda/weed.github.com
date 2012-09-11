@@ -13,6 +13,8 @@ This blog mainly introduce cocoaPods which is library of Objective-C.
 
 ## Aoubt Me
 
+![](http://farm9.staticflickr.com/8308/7976472200_4ca9b5414f_s.jpg)
+
 A free programmer mainly developed iOS application with Network Web service.
 
 主にネットワークのWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
