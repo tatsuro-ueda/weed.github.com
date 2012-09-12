@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-## Aoubt this blog
+## About this blog
 
 This blog mainly introduce cocoaPods which is library of Objective-C.
 
