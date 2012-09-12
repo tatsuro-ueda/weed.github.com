@@ -5,6 +5,8 @@ tags : ["UIView"]["cocoaPods"]
 ---
 {% include JB/setup %}
 
+##MWFSlideNavigationViewController
+
 **MWFSlideNavigationViewController** provides UIView which can be slided up, down, right, left. Be honest, I don't know what is be made by this pod.
 
 **MWFSlideNavigationViewController**は上下左右にスライドするUIViewを提供する。正直、何に使ったらいいのだろう？
