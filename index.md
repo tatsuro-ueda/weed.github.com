@@ -26,14 +26,15 @@ A free programmer mainly developed iOS application with Network Web service.
 - weed_7777@yahoo.co.jp
 - [weed](http://stackoverflow.com/users/1530020/weed) @ ![](http://farm9.staticflickr.com/8438/7976623292_85f2420bbd_t.jpg)
 
-## Articles
+## Old Blog
+
+My old Blog is [here](http://weed.cocolog-nifty.com/wzero3es)
+
+## New Articles
+### This part is under construction
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## Old Blog
-
-My old Blog is [here](http://weed.cocolog-nifty.com/wzero3es)
