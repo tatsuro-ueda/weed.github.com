@@ -15,20 +15,24 @@ This blog mainly introduce cocoaPods which is library of Objective-C.
 
 ![](http://farm9.staticflickr.com/8308/7976472200_f63eff2f59_o.jpg)
 
-A free programmer mainly developed iOS application with Network Web service.
+A free programmer mainly developed iOS application with Web service.
 
-主にネットワークのWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
+主にWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
 
 ### Contact
 
 - [@weed_7777](https://twitter.com/weed_7777)
 - <http://weed.github.com>
 - weed_7777@yahoo.co.jp
-- [weed](http://stackoverflow.com/users/1530020/weed) @ ![](http://farm9.staticflickr.com/8438/7976623292_85f2420bbd_t.jpg)
+- [weed](http://stackoverflow.com/users/1530020/weed) @ StackOverflow
 
 ## Old Blog
 
 My old Blog is [here](http://weed.cocolog-nifty.com/wzero3es)
+
+## Cocoapods-selected
+
+The list is [here](https://github.com/weed/CocoaPods_selected/blob/master/pods.md)
 
 ## New Articles
 ### This part is under construction
