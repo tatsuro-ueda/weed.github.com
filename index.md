@@ -30,7 +30,7 @@ A free programmer mainly developed iOS application with Web service.
 
 My old Blog is [here](http://weed.cocolog-nifty.com/wzero3es)
 
-## Cocoapods-selected
+## iOS library list
 
 The list is [here](https://github.com/weed/CocoaPods_selected/blob/master/pods.md)
 
