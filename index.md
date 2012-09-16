@@ -15,9 +15,9 @@ This blog mainly introduce cocoaPods which is library of Objective-C.
 
 ![](http://farm9.staticflickr.com/8308/7976472200_f63eff2f59_o.jpg)
 
-A free programmer mainly developed iOS application with Web service.
+OSS project CocoaPod commiter. A free programmer mainly developed iOS application with Web service.
 
-主にWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
+OSSプロジェクトのCocoaPodのコミッター。主にWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
 
 ### Contact
 
