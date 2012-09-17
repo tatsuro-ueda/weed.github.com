@@ -26,6 +26,9 @@ OSSプロジェクトのCocoaPodのコミッター。主にWebサービスをか
 - weed_7777@yahoo.co.jp
 - [weed](http://stackoverflow.com/users/1530020/weed) @ StackOverflow
 
+<!-- You also need to place a container where you'd like the Coderwall badges to render. -->
+<section class="coderwall" data-coderwall-username="weed" data-coderwall-orientation="horizontal"></section>
+
 ## Old Blog
 
 My old Blog is [here](http://weed.cocolog-nifty.com/wzero3es)
