@@ -24,6 +24,7 @@ OSSプロジェクトのCocoaPodのコミッター。主にWebサービスをか
 - [@weed_7777](https://twitter.com/weed_7777)
 - <http://weed.github.com>
 - weed_7777@yahoo.co.jp
+- [weed's repositories](https://github.com/weed)
 - [weed](http://stackoverflow.com/users/1530020/weed) @ StackOverflow
 
 <!-- You also need to place a container where you'd like the Coderwall badges to render. -->
