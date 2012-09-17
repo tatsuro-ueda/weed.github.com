@@ -38,6 +38,12 @@ My old Blog is [here](http://weed.cocolog-nifty.com/wzero3es)
 
 The list is [here](https://github.com/weed/CocoaPods_selected/blob/master/pods.md)
 
+### Recent Updates
+
+<script src='http://gitlive.com/githublive.min.js'></script>
+<script>var GithubPush = {num_old:5,nodes:['weed/CocoaPods_selected']}</script>
+<div id='commits'></div>
+
 ## New Articles
 ### This part is under construction
 
