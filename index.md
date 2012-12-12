@@ -5,28 +5,23 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-## About this blog
-
-This blog mainly introduce cocoaPods which is library of Objective-C.
-
-このブログでは主にcocoaPodsというObjective-Cのライブラリを紹介します。
-
 ## Aoubt Me
 
 ![](http://farm9.staticflickr.com/8308/7976472200_f63eff2f59_o.jpg)
 
 OSS project CocoaPod commiter. A free programmer mainly developed iOS application with Web service.
 
-OSSプロジェクトCocoaPodのコミッター。主にWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
+主にWebサービスをからめたiOSアプリの開発をしているフリーのプログラマです
 
 ### Contact
 
 - [@weed_7777](https://twitter.com/weed_7777)
-- <http://weed.github.com>
+- <http://weed.github.com> (This page)
 - weed_7777@yahoo.co.jp
-- [weed's repositories](https://github.com/weed)
-- [weed](http://stackoverflow.com/users/1530020/weed) @ StackOverflow
-- [weed](http://coderwall.com/weed) @ coderwall
+- [weed's repositories](https://github.com/weed) @GitHub
+- [weed](http://stackoverflow.com/users/1530020/weed) @StackOverflow
+- [weed](http://coderwall.com/weed) @coderwall
+- [weed](http://qiita.com/users/weed@github) @Qiita
 
 <!-- You also need to place a container where you'd like the Coderwall badges to render. -->
 <section class="coderwall" data-coderwall-username="weed" data-coderwall-orientation="horizontal"></section>
